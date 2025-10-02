@@ -1,8 +1,5 @@
 # Git-Github
 
-Perfect ✅ Let’s expand this into a **full hands-on course** with **step-by-step commands + mini projects** for each module.
-You’ll only need this, no extra searching.
-
 ---
 
 # 📚 Complete Git & GitHub Hands-on Course (24 Days)
